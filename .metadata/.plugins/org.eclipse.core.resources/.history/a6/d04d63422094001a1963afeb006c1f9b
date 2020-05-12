@@ -1,0 +1,11 @@
+package designpattern.factorymethodpattern;
+
+public class SpcialPackage extends Package {
+
+	@Override
+	protected void createPackage() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

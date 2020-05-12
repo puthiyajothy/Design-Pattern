@@ -1,0 +1,11 @@
+package designpattern.factorymethodpattern;
+
+public class MiddlePackage extends Package {
+
+	@Override
+	protected void createPackage() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

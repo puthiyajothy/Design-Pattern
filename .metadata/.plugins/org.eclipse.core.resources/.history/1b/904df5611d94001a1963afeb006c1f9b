@@ -1,0 +1,10 @@
+package designpattern.factorymethodpattern;
+
+import java.util.ArrayList;
+
+public abstract class Package {
+	
+protected List<Laptop> laptop = new ArrayList<>();
+	
+}
+}

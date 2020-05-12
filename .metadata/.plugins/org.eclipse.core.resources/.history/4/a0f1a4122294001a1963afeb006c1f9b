@@ -1,0 +1,14 @@
+package designpattern.factorymethodpattern;
+
+public class Dell extends Laptop {
+
+	public Dell() {
+		super();
+		System.out.println("Hi Dell");
+	}
+
+	
+	
+	
+
+}

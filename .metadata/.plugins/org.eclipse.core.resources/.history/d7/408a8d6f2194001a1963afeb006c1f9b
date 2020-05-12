@@ -1,0 +1,9 @@
+package designpattern.factorymethodpattern;
+
+public class Costumer{
+
+	public static void main(String[] args) {
+
+	}
+
+}

@@ -1,0 +1,11 @@
+package designpattern.factorymethodpattern;
+
+public class BasicPackage  extends Package{
+
+	@Override
+	protected void createPackage() {
+		laptop.add(new Dell());
+		
+	}
+
+}

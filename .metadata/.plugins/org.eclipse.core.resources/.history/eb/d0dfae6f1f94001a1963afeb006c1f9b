@@ -1,0 +1,5 @@
+package designpattern.factorymethodpattern;
+
+public class BasicPackage  extends Package{
+
+}
