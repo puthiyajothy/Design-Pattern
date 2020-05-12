@@ -1,5 +1,0 @@
-package designpattern.factorymethodpattern;
-
- abstract Laptop {
-
-}

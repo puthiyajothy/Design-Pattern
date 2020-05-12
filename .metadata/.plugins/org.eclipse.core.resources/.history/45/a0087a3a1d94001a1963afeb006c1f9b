@@ -1,6 +1,0 @@
-package designpattern.factorymethodpattern;
-
-public abstract class Package {
-	
-
-}
